@@ -15,3 +15,9 @@
 
 * [CKA](https://github.com/cncf/curriculum/blob/master/CKA_Curriculum_V1.18.pdf)
 * [CKAD](https://github.com/cncf/curriculum/blob/master/CKAD_Curriculum_V1.18.pdf)
+
+## Topics
+
+| Title 								| Weight|
+|---------------------------------------|-------|
+| [Scheduling](topics/scheduling.md) 	|  5%   |
